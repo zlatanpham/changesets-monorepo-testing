@@ -1,0 +1,26 @@
+{
+  "name": "@tpham0/pb",
+  "version": "0.0.1",
+  "description": "a package",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "directory": "packages/pb"
+  },
+  "scripts": {
+    "start": "tsdx watch --tsconfig tsconfig.build.json --verbose --noClean",
+    "build": "tsdx build --tsconfig tsconfig.build.json",
+    "prepublish": "yarn build"
+  },
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "README.md",
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "32ed7e5a4038f882e31e9926e6714512496bdca3"
+}
