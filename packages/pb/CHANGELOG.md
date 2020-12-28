@@ -1,5 +1,11 @@
 # @tpham0/pb
 
+## 1.2.0
+
+### Minor Changes
+
+- [`7dc84bc`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/7dc84bc84fe4618c3e377b64b8b3a02da7b88a24) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
 ## 1.1.0
 
 ### Minor Changes
