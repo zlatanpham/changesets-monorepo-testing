@@ -40,7 +40,6 @@ export function log22(message: string) {
 
 export function log11(message: string) {
   console.log(message);
-  console.log(message);
 }
 
 export function log213(message: string) {
