@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "@tpham0/pa": "0.1.1",
+    "@tpham0/pb": "1.2.0"
+  },
+  "changesets": []
+}
