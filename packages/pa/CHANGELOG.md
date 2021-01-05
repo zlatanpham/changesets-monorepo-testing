@@ -1,5 +1,17 @@
 # @tpham0/pa
 
+## 1.0.0
+
+### Major Changes
+
+- [`53cd8bc`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/53cd8bcceaa33a6975c71aabc51a723f579738fb) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test **test**
+
+### Minor Changes
+
+- [`213ad63`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/213ad635122c86bef67c928086514156577ce32e) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test minor bump
+
+* [`b3f695c`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/b3f695c6a915d8e1f302e638b76c7e26d590511e) [#7](https://github.com/zlatanpham/changesets-monorepo-testing/pull/7) Thanks [@zlatanpham](https://github.com/zlatanpham)! - sdf
+
 ## 0.1.2
 
 ### Patch Changes
