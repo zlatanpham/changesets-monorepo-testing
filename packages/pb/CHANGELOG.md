@@ -1,5 +1,12 @@
 # @tpham0/pb
 
+## 1.2.2
+
+### Patch Changes
+
+- Updated dependencies [[`213ad63`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/213ad635122c86bef67c928086514156577ce32e), [`53cd8bc`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/53cd8bcceaa33a6975c71aabc51a723f579738fb), [`b3f695c`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/b3f695c6a915d8e1f302e638b76c7e26d590511e)]:
+  - @tpham0/pa@1.0.0
+
 ## 1.2.1
 
 ### Patch Changes

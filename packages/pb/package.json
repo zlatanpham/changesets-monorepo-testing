@@ -1,6 +1,6 @@
 {
   "name": "@tpham0/pb",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "a package",
   "sideEffects": false,
   "repository": {
@@ -24,6 +24,6 @@
   },
   "gitHead": "32ed7e5a4038f882e31e9926e6714512496bdca3",
   "dependencies": {
-    "@tpham0/pa": "^0.1.2"
+    "@tpham0/pa": "^1.0.0"
   }
 }
