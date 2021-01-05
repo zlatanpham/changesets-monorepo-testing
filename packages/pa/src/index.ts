@@ -45,3 +45,6 @@ export function log11(message: string) {
 export function log213(message: string) {
   console.log(message + '2s2 212');
 }
+export function log2213(message: string) {
+  console.log(message + '2s2 212');
+}
