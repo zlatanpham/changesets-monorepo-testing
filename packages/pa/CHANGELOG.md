@@ -1,5 +1,11 @@
 # @tpham0/pa
 
+## 0.1.2
+
+### Patch Changes
+
+- [`6efb54b`](https://github.com/zlatanpham/changesets-monorepo-testing/commit/6efb54b5e0c60954666871abef2acfed97474d53) Thanks [@zlatanpham](https://github.com/zlatanpham)! - test
+
 ## 0.1.1
 
 ### Patch Changes
